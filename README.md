@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahriar Utchas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar-utchas&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar-utchas" /> </p>
 
-- 🌱 I’m currently learning **Web Development And Artificial Intellegent**
+- 🌱 I’m currently learning **Web Development And Artificial Intelligence**
 - 👨‍💻 All of my projects are available at [https://github.com/Shahriar-Utchas?tab=repositories](https://github.com/Shahriar-Utchas?tab=repositories)
 
 - 📫 How to reach me **shutchas6@gmail.com**
