@@ -20,4 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-utchas&show_icons=true&locale=en&layout=compact" alt="shahriar-utchas" />
   <img align="right" width="300" height="180" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="zoro">
 </p>
-  
+![Snake animation](https://github.com/Shahriar-Utchas/Shahriar-Utchas/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
