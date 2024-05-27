@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Shahriar-Utchas/Shahriar-Utchas/blob/main/gif/Hey!%20Im%20Shahriar%20Utchas.gif" width="850" height="100">
+  <img src="https://github.com/Shahriar-Utchas/Shahriar-Utchas/blob/main/gif/Hey!%20Im%20Shahriar%20Utchas.gif" width="750" height="150">
 </div>
 
 <table>
