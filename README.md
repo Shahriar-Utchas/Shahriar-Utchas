@@ -166,6 +166,16 @@
         </div>
     </td>
   <!--     ......... -->
+    <td >
+   <!--     figma-->
+        <div>
+            <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="cplusplus" width="55" height="40"> 
+        </div>
+        <div>
+            Figma
+        </div>
+    </td>
+  <!--     ......... -->
 
  <!--    <td > -->
    <!--     Django-->
