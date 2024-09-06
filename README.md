@@ -19,7 +19,177 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<table >
+  <tr align="center">
+     <td>
+    <!--     c++ -->
+        <div>
+            <img src = "https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+           C++
+        </div>
+    </td>
+<!--     ......... -->
+  <td>
+    <!--     c# -->
+        <div>
+            <img src = "https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+           C#
+        </div>
+    </td>
+<!--     ......... -->
+    <td>
+    <!--     Java -->
+        <div>
+            <img src = "https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+           JAVA
+        </div>
+    </td>
+<!--     ......... -->
+    <td>
+   <!--     python -->
+        <div>
+            <img src =  "https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+            Python
+        </div>
+    </td>
+  <!--     ......... -->
+      <td>
+   <!--     Html -->
+        <div>
+            <img src =  "https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+            HTML5
+        </div>
+    </td>
+  <!--     ......... -->
+        <td>
+   <!--     CSS -->
+        <div>
+            <img src = "https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="40" height="40"> 
+        </div>
+        <div>
+            CSS
+        </div>
+    </td>
+  <!--     ......... -->
+   <td>
+   <!--     JavaSc -->
+        <div>
+            <img src =  "https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="cplusplus" width="69" height="45"> 
+        </div>
+        <div>
+            JavaScript
+        </div>
+    </td>
+<!--     ............... -->
+          <td>
+   <!--     BOOt -->
+        <div>
+            <img src = "https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="40" height="40"> 
+        </div>
+        <div>
+            BootStrap
+        </div>
+    </td>
+  <!--     ......... -->
+          <td>
+   <!--     Php -->
+        <div>
+            <img src = "https://camo.githubusercontent.com/730577f274566576ff88e28ea042fea703254659dd140c5478ce1423f07f4855/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" width="40" height="40"> 
+        </div>
+        <div>
+            PHP
+        </div>
+    </td>
+  <!--     ......... -->
+  <!--     ......... -->
+<!--     <td> -->
+   <!--     TypeSc -->
+<!--         <div>
+            <img src = "https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="cplusplus" width="69" height="45"> 
+        </div>
+        <div>
+            TypeScript
+        </div>
+    </td> -->
+  <!--     ......... -->
+
+   <td >
+   <!--     React-->
+        <div>
+            <img src =  "https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="cplusplus" width="40" height="60"> 
+        </div>
+        <div>
+            React
+        </div>
+    </td>
+  <!--     ......... -->
+
+   <td >
+   <!--     Mysql-->
+        <div>
+            <img src = "https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="cplusplus" width="40" height="60"> 
+        </div>
+        <div>
+            Mysql
+        </div>
+    </td>
+  <!--     ......... -->
+    <td >
+   <!--     Git-->
+        <div>
+            <img src =  "https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="cplusplus" width="40" height="60"> 
+        </div>
+        <div>
+            GitHub
+        </div>
+    </td>
+  <!--     ......... -->
+    <td >
+   <!--     Git-->
+        <div>
+            <img src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="cplusplus" width="45" height="45"> 
+        </div>
+        <div>
+            Git
+        </div>
+    </td>
+  <!--     ......... -->
+
+ <!--    <td > -->
+   <!--     Django-->
+<!--         <div>
+            <img src = "https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" alt="cplusplus" width="40" height="60"> 
+        </div>
+        <div>
+          Django
+        </div>
+    </td> -->
+  <!--     ......... -->
+
+  <!--   <td >  -->
+   <!--    AWS-->
+<!--         <div>
+            <img src = "https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" alt="cplusplus" width="40" height="60"> 
+        </div>
+        <div>
+          AWS
+        </div>
+    </td> -->
+  <!--     ......... -->
+            
+  </tr>
+
+</table>
 <br>
 
 <div align="center">
