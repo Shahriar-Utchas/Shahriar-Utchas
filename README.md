@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-- 🌱 I’m currently learning **Web Development And Artificial Intelligence**
+<!-- - 🌱 I’m currently learning **.net  And Artificial Intelligence**-->
 - 🌐 Check out [My portfolio website](https://shahriar-utchas.github.io/)
 
 <h3 align="left">Connect with me:</h3>
