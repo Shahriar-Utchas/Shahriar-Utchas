@@ -269,20 +269,21 @@
 <table> 
   <tr>
 <!-- .. -->
-    <th>Profile Stars</th>
     <th>Language Contribution</th>
+    <th>Profile Stars</th>
+
   </tr>
   <tr>
-    <td>
-      <div>
-        <img src ="https://github-readme-stats.vercel.app/api?username=Shahriar-utchas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
-      </div>
-    </td>
         <td>
       <div >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-utchas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350">
 </div>
       </td>
+          <td>
+      <div>
+        <img src ="https://github-readme-stats.vercel.app/api?username=Shahriar-utchas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
+      </div>
+    </td>
     </tr>
 </table>
 
