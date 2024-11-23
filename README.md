@@ -270,7 +270,7 @@
   <tr>
 <!-- .. -->
     <th>Language Contribution</th>
-    <th>Profile Stars</th>
+    <th>Profile Stats</th>
 
   </tr>
   <tr>
