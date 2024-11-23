@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-<!-- - 🌱 I’m currently learning **.net  And Artificial Intelligence**-->
+<!-- - 🌱 I’m currently learning **.net  And Artificial Intelligence**
 - 🌐 Check out [My portfolio website](https://shahriar-utchas.github.io/)
 
 <h3 align="left">Connect with me:</h3>
@@ -17,8 +17,10 @@
 <a href="https://www.youtube.com/channel/UCnau5dWja8bZGnuW2U0rXVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnau5dwja8bzgnuw2u0rxvg" height="30" width="40" /></a>
 <a href="https://leetcode.com/shahriar_utchas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shahriar_utchas/" height="30" width="40" /></a>
 </p>
+-->
+<h1 align="Center">Technical Skills:</h1>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages & Frameworks:</h3>
 <table >
   <tr align="center">
      <td>
@@ -81,6 +83,7 @@
         </div>
     </td>
   <!--     ......... -->
+
    <td>
    <!--     JavaSc -->
         <div>
@@ -90,19 +93,11 @@
             JavaScript
         </div>
     </td>
+      </tr>
+    <tr>
 <!--     ............... -->
-  </tr>
-  <tr>
-          <td>
-   <!--     BOOt -->
-        <div>
-            <img src = "https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="70" height="40"> 
-        </div>
-        <div>
-            BootStrap
-        </div>
-    </td>
-  <!--     ......... -->
+<!-- .. -->
+<!--           - -->
           <td>
    <!--     Php -->
         <div>
@@ -125,15 +120,7 @@
     </td> -->
   <!--     ......... -->
 
-   <td >
-   <!--     React-->
-        <div>
-            <img src =  "https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="cplusplus" width="40" height="40"> 
-        </div>
-        <div>
-            React
-        </div>
-    </td>
+  
   <!--     ......... -->
 
    <td >
@@ -145,36 +132,59 @@
             Mysql
         </div>
     </td>
-  <!--     ......... -->
-    <td >
-   <!--     Git-->
+<!--  .. -->
+       <td>
+   <!--     BOOt -->
         <div>
-            <img src =  "https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="cplusplus" width="40" height="40"> 
+            <img src = "https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="70" height="40"> 
         </div>
         <div>
-            GitHub
-        </div>
-    </td>
-  <!--     ......... -->
-    <td >
-   <!--     Git-->
-        <div>
-            <img src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="cplusplus" width="40" height="40"> 
-        </div>
-        <div>
-            Git
+            BootStrap
         </div>
     </td>
-  <!--     ......... -->
-    <td >
-   <!--     figma-->
+        <td >
+   <!--  Tailwind   -->
         <div>
-            <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="cplusplus" width="55" height="40"> 
+            <img src ="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"> 
         </div>
         <div>
-            Figma
+           Tailwind
         </div>
     </td>
+      <td >
+   <!--     React-->
+        <div>
+            <img src =  "https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+            React
+        </div>
+    </td>
+    <td >
+   <!--     .net-->
+        <div>
+            <img src =  "https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+           asp.net
+        </div>
+    </td>
+        <td >
+   <!--     tensonflow-->
+        <div>
+            <img src =  "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+           TensorFlow
+        </div>
+    </td>
+
+  <!--     ......... -->
+   
+  <!--     ......... -->
+    
+  <!--     ......... -->
+    
   <!--     ......... -->
 
  <!--    <td > -->
@@ -202,9 +212,62 @@
   </tr>
 
 </table>
-<br>
 
-<div align="center">
+
+<h3>Other Tools:</h3>
+<table>
+  <tr>
+    <td >
+   <!--     Git-->
+        <div>
+            <img src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+            Git
+        </div>
+    </td>
+     <td >
+   <!--     GitHUB-->
+        <div>
+            <img src =  "https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="cplusplus" width="40" height="40"> 
+        </div>
+        <div>
+            GitHub
+        </div>
+    </td>
+    <td >
+   <!--     figma-->
+        <div>
+            <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="cplusplus" width="55" height="40"> 
+        </div>
+        <div>
+            Figma
+        </div>
+    </td>
+       <td >
+   <!--     Photoshop-->
+        <div>
+            <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="cplusplus" width="55" height="40"> 
+        </div>
+        <div>
+            Photoshop
+        </div>
+    </td>
+    <td >
+   <!--     Linux-->
+        <div>
+            <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="cplusplus" width="55" height="40"> 
+        </div>
+        <div>
+            Linux
+        </div>
+    </td>
+    
+  </tr>
+  
+</table>
+
+<div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Utchas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="350">
 </div>
 
