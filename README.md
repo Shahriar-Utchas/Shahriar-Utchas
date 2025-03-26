@@ -4,10 +4,10 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I am a passionate Full-Stack Developer and Software Engineer with proficiency in both frontend and backend technologies, including TypeScript, JavaScript, React, Next.js, Express.js, NestJS, ASP.NET, and REST APIs. I have experience in database management using MongoDB, PostgreSQL, and MySQL, alongside tools like Firebase, Postman, and Git. Additionally, I have a basic understanding of machine learning. Currently pursuing a Bachelor’s degree in Computer Science and Engineering at American International University-Bangladesh, I am passionate about developing high-performance software solutions and continuously exploring new technologies.
+I am a passionate Full-Stack Developer and Software Engineer with proficiency in both frontend and backend technologies, including TypeScript, JavaScript, React, Next.js, Express.js, NestJS, ASP.NET, and REST APIs, along with expertise in database management using MongoDB, PostgreSQL, and MySQL, and tools like Firebase, Postman, and Git. Additionally, I have a basic understanding of machine learning. Currently pursuing a Bachelor’s degree in Computer Science and Engineering at American International University-Bangladesh, I am passionate about developing high-performance software solutions and continuously exploring new technologies.
 </p>
 
-<h2>🛠️ Tech Stack</h2>
+<h3>🛠️ Tech Stack </h3>
 <p align="left">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40"/>  
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="40" height="40"/>  
