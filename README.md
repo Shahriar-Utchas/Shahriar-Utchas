@@ -4,7 +4,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I am a passionate Full-Stack Developer and Software Engineer with proficiency in both frontend and backend technologies, including TypeScript, JavaScript, React, Next.js, Express.js, NestJS, ASP.NET, and REST APIs, along with expertise in database management using MongoDB, PostgreSQL, and MySQL, and tools like Firebase, Postman, and Git. Additionally, I have a basic understanding of machine learning. Currently pursuing a Bachelor’s degree in Computer Science and Engineering at American International University-Bangladesh, I am passionate about developing high-performance software solutions and continuously exploring new technologies.
+I am a passionate Full-Stack Developer and Software Engineer with expertise in frontend technologies (TypeScript, JavaScript, React, Next.js) and backend frameworks (Express.js, NestJS, ASP.NET, REST APIs). Skilled in database management with MongoDB, PostgreSQL, and MySQL, along with tools like Firebase, Postman, and Git. I also have a basic understanding of machine learning. Currently pursuing a Bachelor’s degree in Computer Science and Engineering at American International University-Bangladesh, I am passionate about developing high-performance software solutions and continuously exploring new technologies.
 </p>
 
 <h3>🛠️ Tech Stack </h3>
