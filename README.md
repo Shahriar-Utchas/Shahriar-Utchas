@@ -39,9 +39,9 @@ I am a passionate Full-Stack Developer and Software Engineer with proficiency in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>  
 </p>
 
-<h3 >📊 Language Contributions  </h3>
- <h1 > </h1>
+<!--<h3 >📊 Language Contributions  </h3>
+  <h1 > </h1>
 <div align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Utchas&langs_count=10&layout=compact" width="300">
-</div>
+</div> -->
  
