@@ -1,7 +1,13 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Shahriar Hossen (Utchas)</h1>
-<h3 align="center"> A passionate developer, problem solver, and tech enthusiast 🚀</h3>
+ <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Shahriar Hossen (Utchas)</h1>
+<!--  <h3 align="center">🚀 A passionate Full-stack developer, problem solver, and tech enthusiast 🚀</h3> -->
 
-<h2>🛠️ Languages and Tools</h2>
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+I am a passionate Full-Stack Developer and Software Engineer with proficiency in both frontend and backend technologies, including TypeScript, JavaScript, React, Next.js, Express.js, NestJS, ASP.NET, and REST APIs. I have experience in database management using MongoDB, PostgreSQL, and MySQL, alongside tools like Firebase, Postman, and Git. Additionally, I have a basic understanding of machine learning. Currently pursuing a Bachelor’s degree in Computer Science and Engineering at American International University-Bangladesh, I am passionate about developing high-performance software solutions and continuously exploring new technologies.
+</p>
+
+<h2>🛠️ Tech Stack</h2>
 <p align="left">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40"/>  
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="40" height="40"/>  
@@ -33,7 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>  
 </p>
 
-<h1 ></h1>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Utchas&langs_count=10&layout=compact" width="320">
+<h3 >📊 Language Contributions  </h3>
+ <h1 > </h1>
+<div align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Utchas&langs_count=10&layout=compact" width="300">
 </div>
+ 
