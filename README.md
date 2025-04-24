@@ -1,17 +1,14 @@
- <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Shahriar Hossen (Utchas)</h1>
-<!--  <h3 align="center">🚀 A passionate Full-stack developer, problem solver, and tech enthusiast 🚀</h3> -->
-
-<h3 align="left">👨‍💻 About Me</h3>
+<h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-I am a passionate Full-Stack Developer and Software Engineer with expertise in both frontend and backend technologies, including TypeScript, JavaScript, React, Next.js, Express.js, NestJS, and ASP.NET. I specialize in REST APIs and database management, working with MongoDB, PostgreSQL, and MySQL, alongside tools like Firebase, Postman, and Git. Additionally, I have a basic understanding of machine learning.
+I am a passionate Full-Stack Developer  with expertise in both frontend and backend technologies, including TypeScript, JavaScript, React, Next.js, Express.js, NestJS, and ASP.NET. I specialize in REST APIs and database management, working with MySQL, MongoDB, PostgreSQL, and TypeORM, alongside tools like Firebase, Postman, and Git. Additionally, I have a basic understanding of machine learning.
 </p>
 
 <p align="left">
 Currently pursuing a Bachelor’s degree in Computer Science and Engineering at American International University-Bangladesh, I am dedicated to building high-performance software solutions and continuously exploring new technologies to enhance my skills.
 </p>
 
-<h3>🛠️ Tech Stack </h3>
+<h2>🛠️ Tech Stack </h2>
 <p align="left">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40"/>  
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="40" height="40"/>  
