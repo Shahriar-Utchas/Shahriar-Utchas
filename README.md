@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**Shahriar-Utchas/Shahriar-Utchas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer
 
-Here are some ideas to get you started:
+- ⚙️ I work with: `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Express` `NestJS` `ASP.NET`
+- 🧠 Focused on scalable systems, clean architecture, and data structures & algorithms
+- 💬 ping me about web development, frontend and backend engineering, and system design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BSc in CSE, graduated from American International University-Bangladesh  
+
+[Portfolio](https://shahriar-utchas.vercel.app) • 
+[LinkedIn](https://www.linkedin.com/in/shahriar-utchas) • 
+[Gmail](mailto:utchas.shahriar@gmail.com)
